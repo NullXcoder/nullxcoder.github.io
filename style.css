@@ -261,12 +261,12 @@ section .title::after{
 
 
 .about .about-content .right #twt{
-	background: #006BFF;
+	background: #00acee;
 	
 	}
 .about .about-content .right #twt:hover{
-    color: #8A2175;
-    background: #00037A;
+    color: #00acee;
+    background: #FFFFFF;
     
     
 }
