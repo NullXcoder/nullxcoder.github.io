@@ -266,30 +266,30 @@ section .title::after{
 	}
 .about .about-content .right #twt:hover{
     color: #00acee;
-    background: #FFFFFF;
+    background:#FFFFFF;
     
     
 }
 
 .about .about-content .right #fb{
-	background: #1F50F3;
+	background: #4267B2;
 	
 	}
 .about .about-content .right #fb:hover{
-    color: #8A2175;
-    background: #00037A;
+    color: #4267B2;
+    background: #FFFFFF;
     
     
 }
 
 .about .about-content .right #ig{
-	background: #6E1454;
+	background:#4267B2;
 	
 	}
 	
 	.about .about-content .right #ig:hover{
-    color: #8A2175;
-    background: #00037A;
+    color: #4267B2;
+    background: #FFFFFF;
     
     
 }
