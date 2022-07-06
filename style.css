@@ -283,13 +283,13 @@ section .title::after{
 }
 
 .about .about-content .right #ig{
-	background:#4267B2;
+	background:#A52A2A;
 	
 	}
 	
 	.about .about-content .right #ig:hover{
-    color: #4267B2;
-    background: #FFFFFF;
+    color: #FFFFFF;
+    background: #A52A2A;
     
     
 }
